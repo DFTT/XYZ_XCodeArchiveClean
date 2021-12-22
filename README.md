@@ -1,0 +1,2 @@
+# XYZ_XCodeArchiveClean
+一个Mac程序，用来清理XCodeArchives
